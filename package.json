@@ -1,0 +1,26 @@
+{
+  "name": "protisthanproject",
+  "version": "1.0.0",
+  "description": "pratisthanCRM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubsoubhik/protisthanProject.git"
+  },
+  "keywords": [],
+  "author": "Pavion Web Developer Soubhik Jana",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/githubsoubhik/protisthanProject/issues"
+  },
+  "homepage": "https://github.com/githubsoubhik/protisthanProject#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
